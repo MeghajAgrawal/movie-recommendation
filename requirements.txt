@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+pickle
+requests
+tmdbv3api
+os
+dotenv
+ast
+nltk
+scikit-learn
+
+-e .
