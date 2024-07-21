@@ -1,11 +1,8 @@
 streamlit
 pandas
 numpy
-pickle
 requests
 tmdbv3api
-os
-dotenv
-ast
+python-dotenv
 nltk
 scikit-learn
