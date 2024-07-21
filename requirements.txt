@@ -9,5 +9,3 @@ dotenv
 ast
 nltk
 scikit-learn
-
--e .
